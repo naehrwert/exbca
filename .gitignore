@@ -1,0 +1,8 @@
+ipch/*
+exbca.sdf
+*.suo
+Debug/*
+exbca/Debug/*
+Release/*
+exbca/Release/*
+exbca/testdata/*
